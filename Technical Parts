@@ -1,8 +1,8 @@
  (i) Actuators & Motion
-- **Motors**: MyActuator RMD-X8 Pro BLDC ($250 × 12 = $3,000)
-- **Transmission**: 3D-printed cycloidal drives (<$50/joint)
-- **Encoders**: AS5600 magnetic sensors ($5 each)
-- **Reasoning**: High torque density + low cost + ROS2 compatibility
+- Motors: MyActuator RMD-X8 Pro BLDC ($250 × 12 = $3,000)
+- Transmission: 3D-printed cycloidal drives (<$50/joint)
+- Encoders: AS5600 magnetic sensors ($5 each)
+- Reasoning: High torque density + low cost + ROS2 compatibility
 
 (ii) Sensors & Perception 
 - Intel RealSense D435i (RGB-D + IMU, $300)
@@ -33,4 +33,4 @@
 - Tendon-driven servos + tactile sensors ($200)
 
 
-**Total: $9,000 ± $1,000**
+Total: $9,000 ± $1,000
