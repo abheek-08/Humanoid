@@ -5,10 +5,10 @@ Overview - We are building **HR-v1**, an **affordable, open-source humanoid robo
 
 ## 🌍 Vision
 Robotics today is dominated by billion-dollar labs and closed systems. HR-v1 changes that by being:
-- **Affordable**: <$10K build cost
-- **Open-source**: Hardware + software freely available
+- **Affordable**: less than $10K build cost
+- **Open-source**: Hardware and software freely available
 - **Capable**: Walking, manipulation, vision, speech, navigation
 - **Efficient**: Smart power system with hot swappable batteries
 
 
-If Tesla is building the **iPhone of robots**, HR-v1 is the **Raspberry Pi** accessible to everyone.
+Let's say Tesla is building the **iPhone of robots**, HR-v1 is the **Raspberry Pi** accessible to everyone.
