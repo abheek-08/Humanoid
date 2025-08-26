@@ -1,0 +1,41 @@
+### 1. Actuators & Motion ($3,000–3,500)
+- **Motors**: MyActuator RMD-X8 Pro BLDC ($250 × 12 = $3,000)
+- **Transmission**: 3D-printed cycloidal drives (<$50/joint)
+- **Encoders**: AS5600 magnetic sensors ($5 each)
+- **Reasoning**: High torque density + low cost + ROS2 compatibility
+
+
+### 2. Sensors & Perception ($1,200–1,500)
+- Intel RealSense D435i (RGB-D + IMU, $300)
+- Logitech C920 webcams ×2 ($100 each)
+- ReSpeaker 4-Mic Array ($80)
+- BNO055 IMU ($50)
+- Foot load cells ($100)
+
+
+### 3. Compute ($1,200–1,500)
+- NVIDIA Jetson Orin NX (16GB, $1,000)
+- Teensy 4.1 MCUs ×4 ($30 each)
+- CAN bus backbone + USB for sensors
+
+
+### 4. Power ($1,000–1,200)
+- 12S4P Li-ion 21700 pack (~1kWh, $600)
+- Daly Smart BMS ($100)
+- Pre-charge + relay circuits ($100)
+- Hot-swap connectors ($50)
+
+
+### 5. Structure ($2,000–2,500)
+- Aluminum extrusion 2020 profiles ($300)
+- CNC brackets + 3D-printed shells ($1,000)
+- ABS torso panels ($200)
+- Feet with retractable omni-wheels ($500)
+
+
+### 6. Hands & Manipulation ($600–800)
+- OpenHand Model T (~$400)
+- Tendon-driven servos + tactile sensors ($200)
+
+
+**Total: $9,000 ± $1,000**
