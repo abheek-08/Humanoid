@@ -1,48 +1,46 @@
-### Step 1: Frame & Skeleton
+Frame & Skeleton
 - Cut aluminum extrusion to length (torso, limbs).
 - Assemble base skeleton with CNC brackets.
 
 
-### Step 2: Joints & Actuators
+Joints & Actuators
 - Mount BLDC motors into joint brackets.
-- Attach 3D-printed cycloidal gear reducers.
+- Attach 3D printed cycloidal gear reducers.
 - Install encoders on shafts.
 
-
-### Step 3: Sensors
+Sensors
 - Mount RealSense camera at head level.
-- Install side webcams for 360°.
+- Install side webcams for 360 degree.
 - Fix IMU inside torso, load cells in feet.
 - Wire microphones on torso.
 
 
-### Step 4: Compute Core
+Compute Core
 - Install Jetson Orin NX in torso (with cooling).
 - Mount Teensy boards near arms/legs.
-- Connect CAN bus from Jetson → MCUs → actuators.
+- Connect CAN bus from Jetson to MCUs to actuators.
 - Connect cameras/mics via USB.
 
+Power
+- Assemble Li ion pack into modular tray.
+- Connect BMS and safety relay.
+- Install pre charge circuit.
+- Wire to 48V bus for motors and 5V rail for compute.
 
-### Step 5: Power
-- Assemble Li-ion pack into modular tray.
-- Connect BMS + safety relay.
-- Install pre-charge circuit.
-- Wire to 48V bus for motors + 5V rail for compute.
 
-
-### Step 6: Hands
+Hands
 - Print OpenHand fingers.
-- Thread tendons → connect to servos.
+- Thread tendons -> connect to servos.
 - Mount servos in forearm cavities.
 - Attach tactile sensors to fingertips.
 
 
-### Step 7: Software Setup
-- Flash Ubuntu + ROS 2 on Jetson.
+Software Setup
+- Flash Ubuntu and ROS 2 on Jetson.
 - Run motor test nodes via Teensy.
 - Test sensors individually in ROS (camera, IMU, mics).
 - Integrate into URDF/Gazebo simulation.
 - Deploy same nodes onto hardware.
 
 
----
+
