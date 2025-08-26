@@ -1,0 +1,6 @@
+Software Stack (Open Source)
+- ROS 2 middleware
+- Gazebo / Isaac Gym for simulation
+- OpenCV + PyTorch for perception, learning
+- SLAM : ORB-SLAM3 / RTAB-Map
+- Speech : Whisper, open-source TTS
