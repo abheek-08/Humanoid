@@ -7,7 +7,7 @@
 (ii) Sensors & Perception 
 - Intel RealSense D435i (RGB-D + IMU, $300)
 - Logitech C920 webcams ×2 ($100 each)
-- ReSpeaker 4-Mic Array ($80)
+- ReSpeaker 4 Mic Array ($80)
 - BNO055 IMU ($50)
 - Foot load cells ($100)
 
@@ -19,12 +19,12 @@
  (iv) Power 
 - 12S4P Li-ion 21700 pack (~1kWh, $600)
 - Daly Smart BMS ($100)
-- Pre-charge + relay circuits ($100)
+- Pre-charge and relay circuits ($100)
 - Hot-swap connectors ($50)
 
  (v) Structure 
-- Aluminum extrusion 2020 profiles ($300)
-- CNC brackets + 3D-printed shells ($1,000)
+- Aluminum extusion 2020 profiles ($300)
+- CNC brackets and 3D-printed shells ($1,000)
 - ABS torso panels ($200)
 - Feet with retractable omni-wheels ($500)
 
