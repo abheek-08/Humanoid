@@ -1,4 +1,4 @@
-# Humanoid
+# HR-v1
 Overview - We are building **HR-v1**, an **affordable, open-source humanoid robot** with a target cost under **$10,000**, accessible to students, startups, manufacturers, healthcare industry, and researchers worldwide.
 
 
